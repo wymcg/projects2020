@@ -2,7 +2,7 @@
 ## 2020-2021
 
 Led by Projects Executive Ethan Tabler
-_Committee Members_
+<ins>Committee Members</ins>
 * Will McGloughlin
 * Jackie Cheng
 * Muchen Li
