@@ -1,4 +1,4 @@
 # Penn State IEEE
 ## 3D Graphics Workshop
 
-Led by Ethan Balcik and Ethan Tabler
+Led by Ethan Balcik
