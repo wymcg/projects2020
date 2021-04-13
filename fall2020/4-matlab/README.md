@@ -1,4 +1,6 @@
 # Penn State IEEE
 # Introduction to MATLAB
+November 15, 2020
 
-Led by Nishchay Paragani, Jackie Cheng, Will McGloughlin, and Muchen Li
+### About
+Attendees to this workshop learned the basics of using the MATLAB programming language in the context of the electrical engineering classes taught at Penn State. This event was held remotely due to the COVID-19 pandemic.
