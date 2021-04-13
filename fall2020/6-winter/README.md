@@ -14,5 +14,5 @@ For this workshop, attendees were shipped a kit of parts and a PCB, and followed
 ### Parts List
 - (WIP)
 
-### Tutorial 
-Video here: https://youtu.be/F8fKGx45B7o
+### Resources
+[Tutorial Video](https://youtu.be/F8fKGx45B7o)
