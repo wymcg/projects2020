@@ -15,4 +15,4 @@ For this workshop, attendees were shipped a kit of parts and a PCB, and followed
 - (WIP)
 
 ### Resources
-[Tutorial Video](https://youtu.be/F8fKGx45B7o)
+- [Tutorial Video](https://youtu.be/F8fKGx45B7o)
