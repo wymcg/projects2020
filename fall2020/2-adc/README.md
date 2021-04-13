@@ -1,2 +1,6 @@
 # Penn State IEEE
 ## Analog to Digital Converters Workshop
+September 17, 2020
+
+### About
+This project served to teach attendees about basic concepts in Arduino programming and analog to digital converters(ADCs). Attendees were provided with a breadboard, an Arduino Uno, and the relevant components necessary to complete the circuits described in the presentation. This event was held remotely due to the COVID-19 pandemic.
