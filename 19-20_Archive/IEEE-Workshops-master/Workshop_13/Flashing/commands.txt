@@ -1,0 +1,6 @@
+cd "/Program Files (x86)/Arduino/hardware/tools/avr/bin"]
+
+avrdude -C ../etc/avrdude.conf -c arduino -p t84 -P <Serial Port> -b 19200 -U flash:w:<Workshop 13 Directory>/Flashing/t84_default.hex
+
+avrdude -C ../etc/avrdude.conf -c arduino -p t84 -P <Serial Port> -b 19200 -U lfuse:w:0xe2:m -U hfuse:w:0xdd:m -U efuse:w:0xfe:m
+

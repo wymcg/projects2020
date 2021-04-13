@@ -1,0 +1,16 @@
+menu.cpu=Processor
+
+################################################################################
+
+MyTiny.name=ATTiny 84
+
+MyTiny.upload.using=micronucleusprog
+MyTiny.upload.protocol=usb
+MyTiny.upload.tool=micronucleus
+MyTiny.upload.maximum_size=6012
+
+MyTiny.build.mcu=attiny84
+MyTiny.build.f_cpu=8000000L
+MyTiny.build.board=attiny
+MyTiny.build.core=arduino:arduino
+MyTiny.build.variant=tiny14
