@@ -13,5 +13,6 @@ This GitHub repository is for the archival and distribution of materials for the
 | | Muchen Li |
 | | Nischay Paragani |
 | | Jack Supenia |
+| | Kan Nsekhe |
 | Special Thanks | [Ethan Balcik](https://github.com/whatsacomputertho) |
 | | Rebecca DeSipio |
