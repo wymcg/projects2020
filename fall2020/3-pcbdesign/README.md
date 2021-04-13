@@ -1,2 +1,6 @@
 # Penn State IEEE
 ## Circuit and PCB Design with EAGLE
+November 1, 2020
+
+### About
+Attendees to this workshop learned basic circuit and PCB design using Autodesk Eagle. This event was held remotely due to the COVID-19 pandemic.
