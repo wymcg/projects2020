@@ -1,2 +1,6 @@
 # Penn State IEEE
 ## Python GUI Workshop
+November 12, 2020
+
+### About
+Attendees to this workshop learned about basic GUI design with Python and Tkinter. This event was held remotely due to the COVID-19 pandemic.
