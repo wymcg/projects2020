@@ -10,3 +10,9 @@ For this workshop, attendees were shipped a kit of parts and a PCB, and followed
 - Arduino-compatible microcontroller
 - PC/Mac/Linux machine with the Arduino IDE
 - Jumper wires
+
+### Parts List
+- (WIP)
+
+### Tutorial 
+Video here: https://youtu.be/F8fKGx45B7o
