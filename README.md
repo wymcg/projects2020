@@ -10,7 +10,7 @@ This GitHub repository is for the archival and distribution of materials for the
 | Projects Executive | [Ethan Tabler](https://github.com/ethantabler) |
 | Projects Committee | Jackie Cheng |
 | | [Will McGloughlin](https://github.com/wymcg) |
-| | Muchen Li |
+| | [Muchen Li](https://github.com/Musonn) |
 | | Nischay Paragani |
 | | Jack Supenia |
 | | Kan Nsekhe |
