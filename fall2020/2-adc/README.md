@@ -12,5 +12,5 @@ This project served to teach attendees about basic concepts in Arduino programmi
 - (WIP)
 
 ### Resources
-- [Workshop Tutorial](https://www.youtube.com/watch?v=83gxKp5aPJo)
+- [Workshop Recording](https://www.youtube.com/watch?v=83gxKp5aPJo)
 
